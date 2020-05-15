@@ -1,0 +1,11 @@
+{
+  "name": "js-pro",
+  "version": "1.0.0",
+  "description": "Curso de JavaScript Profesional",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jhony Alexander Garcia Gómez",
+  "license": "ISC"
+}
